@@ -1,0 +1,26 @@
+body{
+    background-color: #222222;
+}
+section{
+    font-size: 2rem;
+    padding: 0 10%;
+    color: #E7E7E7;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+nav{
+    position: fixed;
+    color: #222222;
+    top: 0;
+    left: 0;
+    background-color: rgb(201, 17, 17);
+    width: 100%;
+    display: flex;
+}
+
+h2{
+    margin-left: 5rem;
+}

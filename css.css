@@ -9,17 +9,28 @@ section{
 
 h1{
     font-size: 5rem;
+    padding: 1rem;
+}
+
+img{
+    float: right;
 }
 
 nav{
-    position: fixed;
-    color: #222222;
+    position: fixed; 
+    color: #222222; 
     top: 0;
     left: 0;
     background-color: rgb(201, 17, 17);
     width: 100%;
     display: flex;
     justify-content: center;
+    border: #E7E7E7 solid 7px;
+}
+
+a{
+    text-decoration: none;
+    color: #222222;
 }
 
 h2{
@@ -31,5 +42,10 @@ h2{
     padding: 0 0;
 }
 .margin-top{
-    padding-top: 4rem;
+    padding-top: 5rem;
+}
+
+#Drake{
+    height: 23rem;
+    margin-right: 5rem;
 }
